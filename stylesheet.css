@@ -1,0 +1,17 @@
+h1 {
+	background-color: #ff6725;
+	font-family: tahoma;
+	text-align: center;
+	color: white;
+}
+
+h2 {
+	background-color: #ffaa74;
+	font-family: tahoma;
+	color: blue;
+}
+
+#oui, #non, #ne-sait-pas {
+	background-color: #ffff74;
+	font-size: large;
+}
